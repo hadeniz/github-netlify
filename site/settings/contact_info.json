@@ -1,0 +1,9 @@
+{
+  "phone": "132123",
+  "email": "hadideniz@hotmail.com",
+  "address": {
+    "street": "Alter Heuweg",
+    "city": "Augsburg",
+    "street2": "86150"
+  }
+}
