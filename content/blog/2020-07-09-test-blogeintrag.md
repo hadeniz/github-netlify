@@ -8,4 +8,4 @@ featuredimage: /img/bildschirmfoto-2020-07-02-um-08.48.53.png
 tags:
   - Wichtig
 ---
-Hier gebe ich einfach ein paar Informationen
+Hier gebe ich einfach **ein paar** Informationen
